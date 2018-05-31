@@ -12,6 +12,7 @@
     "botkit-studio-metrics": "^0.0.1",
     "debug": "^2.6.0",
     "express": "^4.14.0",
+    "hoek": "^4.2.1",
     "moment": "^2.22.1",
     "node-env-file": "^0.1.8",
     "plotly": "^1.0.6",
