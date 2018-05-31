@@ -4,7 +4,6 @@ It communicates with the Netatmo API to retrieve data from the weather station o
 
 ## Setup the bot
 > git clone https://github.com/tloyau/jabberbot
-
 > npm install
 
 Create a file called `.env` and follow the template of the file `env_example`
